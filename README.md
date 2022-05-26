@@ -1,8 +1,8 @@
 List: 
-[img]https://ibb.co/6tpGMbY[/img]
+![GitHub actions settings](https://i.ibb.co/Sm1Hj0N/list.jpg)
 Get: 
-[img]https://ibb.co/swSyGzb[/img]
+![GitHub actions settings](https://i.ibb.co/wWHMXjB/get.jpg)
 Add: 
-[img]https://ibb.co/vjktYJn[/img]
+![GitHub actions settings](https://i.ibb.co/bKXfJr9/add.jpg)
 Delete: 
-[img]https://ibb.co/m6MthrH[/img]
+![GitHub actions settings](https://i.ibb.co/Ln269DC/delete.jpg)
